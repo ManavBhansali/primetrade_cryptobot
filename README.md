@@ -32,13 +32,13 @@ Installation and Usage:-
 
 Install dependencies:
 
-bash
-pip install requests
+    bash
+    pip install requests
 
 Run the bot:
 
-  bash
-  python bot.py
+    bash
+    python bot.py
 
   Fill in your API Key, API Secret, Product ID, and order details in the GUI and submit to place orders on the testnet.
 
